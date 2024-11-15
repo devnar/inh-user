@@ -23,7 +23,7 @@ On GitHub, create a new repository named `inh-user`. This repository will store 
 
 ## 3. Copy the GitHub Raw Link
 
-After creating your files, copy the **raw** link for each file. For example, the raw link for `123456789.js` should look like this: https://raw.githubusercontent.com/{your_username}/inh-user/main/123456789.js
+After creating your files, copy the **raw** link for each file. For example, the raw link for `123456789.js` should look like this: https://raw.githubusercontent.com/{your_username}/inh-user/main/{your_userid}.js
 This link will be stored in LocalStorage with the key `userRawUrl` and will be loaded automatically during your terminal session.
 
 ## 4. Keep Your Files Updated
